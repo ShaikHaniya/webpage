@@ -1,0 +1,28 @@
+.box {
+	font-size: 20px;
+ 	font-family:Arial;
+	background-color: #dba325;
+	color:#922816;
+	margin:0;
+	padding:0;
+	width:100%;
+	}
+
+
+.line1 {
+	color:#922816;
+	font-size:15px;
+	font-family:Arial;
+}
+.line {
+	width: 100%;
+	word-spacing:2px;
+	font-family:Arial;
+	
+}
+.end{
+	width:100%;
+      text-align:right;
+	font-family:Arial;
+}
+
